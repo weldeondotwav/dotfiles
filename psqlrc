@@ -43,7 +43,7 @@
 \timing
 \encoding unicode
 \x auto
-\pset null ∅
+\pset null (null)
 \pset border 2
 \pset linestyle unicode
 
